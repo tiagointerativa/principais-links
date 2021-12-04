@@ -28,3 +28,6 @@
 [Sendpulse](https://sendpulse.com/br)
 
 [Moosend](https://moosend.com/pricing/) - Fornece emails ilimitados para até 1k de assinantes
+
+## 👨🏽‍🏫 - Corretor Ortográfico
+[Language Tool](https://languagetool.org/pt-BR)

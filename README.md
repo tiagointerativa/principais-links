@@ -27,6 +27,8 @@
 
 [UIVerse](https://uiverse.io) - Elementos CSS
 
+[SVG Repo](https://www.svgrepo.com/) - Repositório de SVG
+
 ## 📧 - Email Marketing
 
 [SendinBlue](https://pt.sendinblue.com/)
